@@ -1,0 +1,11 @@
+This repository contains works from several different sources, each with its own
+license.
+
+- INPUT-findbugs.xml (LGPL): From http://findbugs.sourceforge.net/ .
+- findbugs-remarkup.xml (LGPL): Converted from INPUT-findbugs.xml using tools in
+  this repository.
+- remarkup.lua (MIT; Copyright 2015 Aaron Adelson): From
+  https://github.com/aaron11496/github-wiki-to-phriction .
+
+- convert-findbugs.py and xml-remarkup-to-phriction.py: These are "original
+  work". They are hereby released to the Public Domain.

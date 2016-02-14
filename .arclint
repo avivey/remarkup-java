@@ -37,7 +37,10 @@
             "type": "spelling"
         },
         "text": {
-            "exclude": "(\\.xml$)",
+            "exclude": [
+                "(\\.xml$)",
+                "(^LICENSE)"
+            ],
             "type": "text"
         },
         "xml": {
